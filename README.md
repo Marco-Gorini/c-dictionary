@@ -1,1 +1,1 @@
-# c-dictionary
+I developed an algorithm in C language to run a simple game (similar to worldly): I had to manage a dictionary of 1 billion of words. To pass all the test cases, I had to stay in a very strict limit of time and memory, so I had to calculate the complexity of every single step of my algorithm and to reduce to a minimum every single operation, using particular Data Structures (manually implemented).
